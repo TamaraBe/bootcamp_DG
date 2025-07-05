@@ -1,2 +1,4 @@
 # Projetos do bootcamp da trilha de Engeharia de dados
-Arquivos do bootcamp (re)start data girls
+
+
+https://nbviewer.org/github/TamaraBe/bootcamp_DG/blob/main/Analise_exploratoria.ipynb
